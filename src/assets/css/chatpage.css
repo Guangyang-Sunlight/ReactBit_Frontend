@@ -1,0 +1,9 @@
+.chat-bar {
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    max-width: 56rem;
+    margin: 0px auto;
+    flex: 1 1;
+    justify-content: space-between;
+}
